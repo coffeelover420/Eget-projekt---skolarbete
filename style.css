@@ -1,0 +1,10 @@
+body {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+canvas {
+    border: 1x solid #0a3cda;
+    margin: 10px;
+}
